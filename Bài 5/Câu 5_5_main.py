@@ -1,5 +1,3 @@
-
-
 from mymodule import sort list, find max, find min
 * Enter the number of elements
 n=int(input("Enter the number of elements in the list: "))
