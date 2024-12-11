@@ -1,5 +1,5 @@
 
-class Person (object):
+class Nguoi (object):
   def getGender (self):
    return "Unknown"
 class Nam (People):
